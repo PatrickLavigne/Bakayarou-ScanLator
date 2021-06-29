@@ -9,7 +9,7 @@
       "title": "Cap1",
       "volume": "1",
       "groups": {
-        "<Bakayarou ScanLator, ReScan>": "/proxy/api/imgur/chapter/NXVRwfx/"
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/NXVRwfx/"
       },
       "last_updated": "1624974497"
     },
@@ -17,7 +17,7 @@
       "title": "Cap2",
       "volume": "1",
       "groups": {
-        "<Bakayarou ScanLator, ReScan>": "/proxy/api/imgur/chapter/5dfv1lu/"
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/5dfv1lu/"
       },
       "last_updated": "1624974497"
     },
@@ -25,9 +25,30 @@
       "title": "Cap3",
       "volume": "1",
       "groups": {
-        "<Bakayarou ScanLator, ReScan >": "/proxy/api/imgur/chapter/FUxJRtl/"
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/FUxJRtl/"
       },
       "last_updated": "1624974497"
-    }
+    },
+    "4": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/LsjqAOZ/"
+      },
+      "last_updated": "1624974497"
+    "5": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/dpdA72z/"
+      },
+      "last_updated": "1624974497"
+    "6": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/MWaet5x/"
+      },
+      "last_updated": "1624974497"
   }
 }
