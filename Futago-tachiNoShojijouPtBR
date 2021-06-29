@@ -1,0 +1,17 @@
+{
+  "title": "Futago-tachi no Shojijou",
+  "description": "Kouki e Nao são irmãos gêmeos que nutrem sentimentos um pelo outro, apesar de não conseguirem expressar esses sentimentos devido ao fato de crescerem como irmãos gêmeos. Entretanto, sua mãe revela um segredo sobre Kouki.",
+  "artist": "Tetsukazu",
+  "author": "Tetsukazu",
+  "cover": "https://imgur.com/d0tPtL7.png",
+  "chapters": {
+    "1": {
+      "title": "Capítulo 1",
+      "volume": "1",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/SrxnOZk/"
+      },
+      "last_updated": "1624913848"
+    }
+  }
+}
